@@ -15,8 +15,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;A%20Computer%20Science%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/harsh-100">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/harsh-100?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/Programmeryogesh">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Programmeryogesh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 <hr>
 
